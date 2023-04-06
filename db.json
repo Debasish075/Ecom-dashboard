@@ -1,0 +1,77 @@
+{
+  "productList": [
+    {
+      "productName": "iphone13",
+      "category": "Electronics",
+      "condition": "Refurbished",
+      "price": 34000,
+      "comment": "A refurbished iphone13 with perfect condition",
+      "date": "2023-02-02T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "pixel7",
+      "category": "Electronics",
+      "condition": "Brand New",
+      "price": 59999,
+      "comment": "It's the smartest phone ever",
+      "date": "2023-02-02T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "pixel6 pro",
+      "category": "Electronics",
+      "condition": "Brand New",
+      "price": 58000,
+      "comment": "pixel shows power in a smartest way",
+      "date": "2023-02-03T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Thar DLX 4WD",
+      "category": "Vehicles",
+      "condition": "Second Hand",
+      "price": 1300000,
+      "comment": "Let's go out for an Adventure",
+      "date": "2023-02-03T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": " VW Polo GT",
+      "category": "Vehicles",
+      "condition": "Second Hand",
+      "price": 1000000,
+      "comment": "Racing DNA with Turbo remap",
+      "date": "2023-02-06T18:30:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "Voltas Ac 1.5ton",
+      "category": "Electronics",
+      "condition": "Refurbished",
+      "price": 20000,
+      "comment": "welcome to the fresh air",
+      "date": "2023-01-31T18:30:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "Sony Bravia 8K OLED\"44\"",
+      "category": "Electronics",
+      "condition": "Brand New",
+      "price": 87000,
+      "comment": "Immersive dynamic Visualization with Dolby Atmos",
+      "date": "2023-02-06T18:30:00.000Z",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
